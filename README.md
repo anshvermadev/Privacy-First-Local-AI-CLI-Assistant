@@ -11,7 +11,7 @@ Requires **Python 3.11+** with SQLite FTS5 support (included in standard Python 
 ### Windows: easiest way
 
 1. Clone this repository and open its folder. If Python is missing, install it with **Add Python to PATH** enabled.
-2. Double-click **START.bat**.
+2. Double-click [START.bat](START.bat) (located in the repository root).
 3. The launcher creates `.venv` and installs the terminal UI and encryption dependencies if needed. Internet is needed for initial installation; no activation or launch command is needed on later runs.
 4. If the app says **setup needed**, enter this once:
 
