@@ -1,0 +1,23 @@
+[
+  {
+    "type": "transcript",
+    "app": "Slack",
+    "source": "Engineering Channel",
+    "content": "Rahul said we should not expose the Stripe secret key in our frontend. We discussed moving payment intent creation to the backend for the pricing page.",
+    "timestamp": "2026-05-19T10:30:00Z"
+  },
+  {
+    "type": "note",
+    "app": "Obsidian",
+    "source": "Work Notes",
+    "content": "Reviewed the Q2 marketing roadmap. Public launch is set for June 15th. We need to draft public press releases next week.",
+    "timestamp": "2026-05-19T11:15:00Z"
+  },
+  {
+    "type": "browser_metadata",
+    "app": "Chrome",
+    "source": "Internal Portal",
+    "content": "Viewing patient summary portal: ID 908-112-AC. Diagnostics show elevated heart rate but stable blood pressure.",
+    "timestamp": "2026-05-19T11:45:00Z"
+  }
+]

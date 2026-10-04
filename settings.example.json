@@ -1,0 +1,15 @@
+{
+  "cloud_ai_enabled": false,
+  "send_personal_data_to_cloud": false,
+  "send_confidential_data_to_cloud": false,
+  "send_secret_data_to_cloud": false,
+  "raw_retention_days": 7,
+  "audit_retention_days": 90,
+  "deny_apps": ["1Password", "Bitwarden", "KeePass", "Keychain Access"],
+  "deny_sources": ["ssh-add", "keychain"],
+  "public_sources": ["https://docs.python.org", "https://developer.mozilla.org"],
+  "people": [],
+  "projects": {},
+  "customer_names": [],
+  "local_model": null
+}

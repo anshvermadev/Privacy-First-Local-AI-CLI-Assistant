@@ -1,0 +1,6 @@
+include START.bat settings.example.json LICENSE
+include docs/ARCHITECTURE.md docs/THREAT_MODEL.md
+recursive-include tests *.py
+include scripts/local-ai.py scripts/run_tests.py
+include COMMANDS.md
+recursive-include docs/images *.png
